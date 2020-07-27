@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class Category
     {
+        // test pull request
         public int CategoryId { get; set; }
 
         [Required]
